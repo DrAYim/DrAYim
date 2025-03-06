@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m an educator on data science and AI/ML tools for accounting and finance
+- 🌱 I’m an educator on data science and AI/ML tools for accounting and finance.
 
 <!--
 **DrAYim/DrAYim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
